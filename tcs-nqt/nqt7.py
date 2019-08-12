@@ -1,4 +1,4 @@
-author : smitjethwa
+# author : smitjethwa
 
 a = input().split()
 m = int(a[0])
